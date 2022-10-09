@@ -33,7 +33,7 @@ For this analysis; I processed the ```event_datafile_new.csv``` dataset to creat
 
 ## How To Run The Project?
 
-1- Install Python 3.
-2- Install Apache Cassandra.
-3- Download the scripts and the datasets.
-4- Run the Jupyter Notebook project.
+- 1- Install Python 3.
+- 2- Install Apache Cassandra.
+- 3- Download the scripts and the datasets.
+- 4- Run the Jupyter Notebook project.
